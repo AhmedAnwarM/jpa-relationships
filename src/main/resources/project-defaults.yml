@@ -1,0 +1,8 @@
+swarm:
+  datasources:
+    data-sources:
+      studentdb:
+        driver-name: mysql
+        connection-url: jdbc:mysql://mysql-host:3306/STUDENTDB
+        user-name: root
+        password: P@ssw0rd
